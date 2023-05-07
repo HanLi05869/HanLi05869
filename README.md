@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning Distributed Systems, Databases
 - 🌱 I'm interested in Computing Systems
 - :computer: C, C++, Go, Python
-- 📫 How to reach me: via hanli06@outlook.com
+- 📫 How to reach me: via xxmlih05869@gmail.com
 <!-- - :family_man_woman_girl: father and husband
 - :video_game: psn:sjj050121014 -->
 
