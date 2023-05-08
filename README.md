@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <!-- - :eyes: focusing on backend dev,os,algorithm,db -->
-- 🔭 I’m currently learning Distributed Systems, Databases
+- 🔭 I’m currently learning Distributed Systems, Databases and Multi-Core Programming
 - 🌱 I'm interested in Computing Systems
 - :computer: C, C++, Go, Python
 - 📫 How to reach me: via xxmlih05869@gmail.com
