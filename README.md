@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <!-- - :eyes: focusing on backend dev,os,algorithm,db -->
 - 🔭 I’m currently learning Distributed Systems, Databases and Multi-Core Programming
-- 🌱 I have a broad interest in the realm of computer systems, such as HPC, storage, distributed systems, software engineering.
-- :computer: C, C++, Go, Python, shell
+- 🌱 I have a broad interest in the realm of computer systems, such as HPC, storage, distributed systems, computer networks, software engineering.
+- :computer: C, C++, Go, Python, Shell
 - 📫 How to reach me: via xxmlih05869@gmail.com
 <!-- - :family_man_woman_girl: father and husband
 - :video_game: psn:sjj050121014 -->
