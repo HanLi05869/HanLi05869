@@ -5,7 +5,7 @@
 
 #### Hi there 👋
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HanLi05869&show_icons=true&theme=tokyonight" />
 
 <!--
 **HanLi05869/HanLi05869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- - :eyes: focusing on backend dev,os,algorithm,db -->
 - 🔭 I’m currently learning Distributed Systems, Databases and Multi-Core Programming
 - 🌱 I have a broad interest in the realm of computer systems, such as HPC, storage, distributed systems, computer networks, software engineering.
 - :computer: C, C++, Go, Python, Shell
 - 📫 How to reach me: via xxmlih05869@gmail.com
-<!-- - :family_man_woman_girl: father and husband
-- :video_game: psn:sjj050121014 -->
+
 
 -------------------------------
 
