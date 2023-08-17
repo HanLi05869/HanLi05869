@@ -1,7 +1,8 @@
 #### Hi there 👋
 
 
-- 🔭 I’m currently learning Distributed Systems, Databases and Multi-Core Programming
+- 🔭 I’m currently learning Computer Networks and HPC
+- 💼 I'm currently an intern in trip group
 - 🌱 I have a broad interest in the realm of computer systems, such as HPC, storage, distributed systems, computer networks, software engineering.
 - :computer: C, C++, Go, Python, Shell
 - 📫 How to reach me: via xxmlih05869@gmail.com
