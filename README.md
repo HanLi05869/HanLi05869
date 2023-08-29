@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently learning Computer Networks and HPC
-- 💼 An intern at Trip Group
+- 💼 An intern at Trip.com Group
 - 🌱 I have a broad interest in the realm of computer systems, such as HPC, storage, distributed systems, computer networks, software engineering
 - :computer: C, C++, Go, Python, Shell
 - 📫 How to reach me: via xxmlih05869@gmail.com
