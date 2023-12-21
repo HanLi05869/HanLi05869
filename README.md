@@ -4,7 +4,7 @@
 <!--- 🔭 I’m currently learning Computer Networks and HPC-->
 - 🔬 CS Master's Student@USTC, 2024 fall
 - ⚓ Previous internship experience at Ctrip Group
-- 🌟 Soon to be an intern in the AI Computing and General Computing Library Talent Program at MetaX
+- 🌟 Currently an intern in the AI Computing and General Computing Library Talent Program at MetaX
 - 🌱 Passionate about computer systems, including HPC, parallel computing, storage, distributed systems, computer networks, and software engineering.
 - :computer: C, C++, CUDA, Go, Python, Shell
 - 🌍 Embracing diversity and exploring new horizons.
